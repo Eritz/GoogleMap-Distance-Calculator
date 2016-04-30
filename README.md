@@ -1,3 +1,3 @@
-# googlemaps_distance
+README
 
-Using the googlemaps' API, it calculates the distance between two given locations
+This python script uses Google Map's API to calculate the distance between two given locations.
